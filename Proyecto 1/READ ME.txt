@@ -1,0 +1,17 @@
+ Nombre: Venta online de productos del hogar.
+ 
+ Desarrollado por: Jannia E. Hernández (Jhaneli -Github-), Matricula: 2019-8432
+ 
+Ambiente de Desarrrollo de Software: 
+
+                    Web.
+
+
+Desarrollado con:
+                    JavaScript (Funcionalidad de la página)
+                    MySQL(Base de Batos) // Propuesto a cambiar a NeDB para mejor usabilidad y adaptación. //
+
+
+
+
+
